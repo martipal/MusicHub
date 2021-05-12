@@ -22,7 +22,7 @@
     "recompose": "^0.30.0",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
-    "simpl-schema": "^1.5.5",
+    "simpl-schema": "^1.10.2",
     "spotify-web-api-node": "^4.0.0"
   },
   "meteor": {
